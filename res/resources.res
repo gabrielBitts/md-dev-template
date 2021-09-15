@@ -1,0 +1,1 @@
+IMAGE bgtile "tiles/bgtile.png"  0
